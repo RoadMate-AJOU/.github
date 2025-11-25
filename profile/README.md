@@ -85,6 +85,9 @@
 
 ---
 
+</div>
+<div>
+
 ## 🛠️ 기술 스택
 
 ### Architecture
@@ -110,7 +113,7 @@ Spring Boot (Server)
 | **Infra** | Naver Cloud, Docker |
 
 ---
-
+    
 ## 📁 구조
 ```
 RoadMate/
