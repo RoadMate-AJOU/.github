@@ -21,30 +21,33 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://github.com/gae-ddong">
-<img src="https://github.com/gae-ddong.png" width="100px;" alt="강수빈"/><br/>
+<img src="https://github.com/gae-ddong.png" width="200px;" alt="강수빈"/><br/>
 <sub><b>강수빈</b></sub>
 </a><br/>
 <sub>프로젝트 기획 및 설계<br/>Frontend, Design</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://github.com/sebeeeen">
-<img src="https://github.com/sebeeeen.png" width="100px;" alt="권세빈"/><br/>
+<img src="https://github.com/sebeeeen.png" width="200px;" alt="권세빈"/><br/>
 <sub><b>권세빈</b></sub>
 </a><br/>
 <sub>프로젝트 기획 및 설계<br/>Backend, Docs</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://github.com/nowijnah">
-<img src="https://github.com/nowijnah.png" width="100px;" alt="한지원"/><br/>
+<img src="https://github.com/nowijnah.png" width="200px;" alt="한지원"/><br/>
 <sub><b>한지원</b></sub>
 </a><br/>
 <sub>프로젝트 기획 및 설계<br/>Backend, AI</sub>
 </td>
+<td align="center" width="25%">
+<sub><b>김지광</b></sub><br/>
+<sub>대회 참가</sub>
+</td>
 </tr>
 </table>
-</div>
 
 ---
 
